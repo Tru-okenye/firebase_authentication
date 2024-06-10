@@ -1,0 +1,33 @@
+
+.login{
+    display: flex;
+    flex-direction: column;
+}
+.login form{
+    display: flex;
+    flex-direction: column;
+    /* width: 40%; */
+    padding: 1rem;
+}
+form input{
+   margin-bottom: 1.2rem;
+}
+.signup{
+    display: flex;
+    flex-direction: column;
+}
+.signup form{
+    display: flex;
+    flex-direction: column;
+    /* width: 20%; */
+    padding: 2rem;
+}
+.parties{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.parties button {
+    margin-bottom: 1.2rem;
+}
